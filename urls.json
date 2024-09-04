@@ -1,0 +1,22 @@
+{
+    "image_urls": {
+      "noaa_HCC": "http://soest-hcc1.hcc.hawaii.edu/products/noaa/images/",
+      "noaa_IRC": "http://140.90.201.238/products/noaa/images/",
+      "noaa_GUAM": "http://140.90.34.198/products/noaa/images/",
+      "metop_HCC": "http://soest-hcc1.hcc.hawaii.edu/products/metop/images/",
+      "metop_IRC": "http://140.90.201.238/products/metop/images/",
+      "metop_GUAM": "http://140.90.34.198/products/metop/images/"
+    },
+    "tracklog_urls": {
+      "HCC": "http://soest-hcc1.hcc.hawaii.edu/products/track_logs/",
+      "IRC": "http://140.90.201.238/products/track_logs/",
+      "GUAM": "http://140.90.34.198/products/track_logs/"
+    },
+    "allowed_folders": [
+      "NOAA_15",
+      "NOAA_18",
+      "NOAA_19",
+      "METOP-B",
+      "METOP-C"
+    ]
+  }
